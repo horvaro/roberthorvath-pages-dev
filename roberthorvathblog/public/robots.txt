@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roberthorvath.pages.dev/sitemap.xml
